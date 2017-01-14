@@ -9,7 +9,6 @@ public class Produit {
 		this.ident= ident;
 		this.nomProduit = nomProduit;
 	}
-
 	public String getNomProduit() {
 		return nomProduit;
 	}
